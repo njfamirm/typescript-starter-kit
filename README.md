@@ -1,1 +1,1 @@
-# Minimal typescript starter kit
+# Minimal typescript starter kit for TDLib
