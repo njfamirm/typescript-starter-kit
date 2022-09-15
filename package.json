@@ -4,6 +4,7 @@
   "author": "S. Amir Mohammad Najafi <njfamirm@gmail.com>",
   "description": "Minimal typescript starter kit",
   "main": "index.js",
+  "type": "module",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "l": "yarn lint",
@@ -39,5 +40,8 @@
     "prettier": "^2.7.1",
     "rimraf": "^3.0.2",
     "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "@alwatr/logger": "^0.16.0"
   }
 }
