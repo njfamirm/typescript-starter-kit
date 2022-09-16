@@ -23,6 +23,7 @@ dist
 *.js
 *.map
 *.d.ts
+!rollup.config.js
 
 # dotenv environment variables file
 env/
@@ -31,6 +32,3 @@ env/
 
 # data
 _data/
-
-# exclude git for rsync
-.git
