@@ -42,6 +42,6 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "@alwatr/logger": "^0.16.0"
+    "@alwatr/logger": "^0.29.0"
   }
 }
